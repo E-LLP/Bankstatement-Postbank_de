@@ -1,0 +1,15 @@
+Bankstatement-Postbank_de
+=========================
+
+A short spike to test how hard it would be to write a
+module that reads PDF Bankstatements from Postbank_de.
+
+This is not complete and not documented!
+
+It is uploaded as Proof-of-concept and for discussion.
+
+To run it you need:
+	
+	ps2ascii 
+
+which is part of the ghostscript project.
